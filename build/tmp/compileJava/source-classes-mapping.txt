@@ -2,3 +2,5 @@ com/bridgelabz/InsertionSort.java
  com.bridgelabz.InsertionSort
 com/bridgelabz/BubbleSort.java
  com.bridgelabz.BubbleSort
+com/bridgelabz/MergeSort.java
+ com.bridgelabz.MergeSort
