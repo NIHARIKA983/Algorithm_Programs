@@ -6,3 +6,5 @@ com/bridgelabz/InsertionSort.java
  com.bridgelabz.InsertionSort
 com/bridgelabz/AnagramDetection.java
  com.bridgelabz.AnagramDetection
+com/bridgelabz/PrimeNumbers.java
+ com.bridgelabz.PrimeNumbers
